@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: lab-3-client-solution
+Implementation-Version: 1
+Built-By: IBM
+Implementation-Vendor-Id: org.test
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/lab-3-client
+ -solution/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.Application
+
